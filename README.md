@@ -1,4 +1,5 @@
 # RAG_CONSTITUTION-PROJECT
+Link to the colab notebook: https://colab.research.google.com/drive/19ryvoi09TYpENeSAGh4mg6vbjVLXFY_s?authuser=0#scrollTo=aQwb1ucNVNV-
 ## Overview
 This notebook implements a Retrieval-Augmented Generation (RAG) system with a chatbot interface to answer questions about the constitution. It uses uploaded documents from Google Drive for retrieval and generation.
 
